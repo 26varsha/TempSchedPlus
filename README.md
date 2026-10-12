@@ -35,4 +35,4 @@ Intelligent temperature-aware storage management across device, edge, and cloud 
 		 .then((res) => res.json())
 		 .then((data) => setFiles(data));
 	}, []);
-	```
+	``.
